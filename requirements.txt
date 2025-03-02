@@ -6,3 +6,4 @@ voila
 altair
 seaborn
 matplotlib
+warnings
